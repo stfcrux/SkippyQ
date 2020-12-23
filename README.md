@@ -2,15 +2,15 @@
 E-Commerce Cross platform mobile app using Ionic and Capacitor 
 
 
-***To build the project:
+# - To build the project:
 ionic integrations enable capacitor
 ionic build
 
-***Ethier Android or IOS
+# - Ethier Android or IOS
 npx cap add android/ios
 npx cap open android/ios
 
-***To start a local server for testing
+# - To start a local server for testing
 ionic serve
 
 Project was built with the user of Angular
