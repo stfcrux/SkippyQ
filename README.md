@@ -27,3 +27,17 @@ Implemented ease of life functionalities , like a pull to resfresh feature, moda
 Identity and access management with the use of firebase.
 
 Camera plugin to allow store owners to upload the photos of what they want to have in their catalogue.
+
+
+Layout of Food items
+![Capture](https://user-images.githubusercontent.com/39015652/103176716-15f84180-48af-11eb-8917-2515a75f3c8b.PNG)
+
+Editing of Food items (making use of forms)
+![forms](https://user-images.githubusercontent.com/39015652/103176717-17296e80-48af-11eb-8469-e212c725e851.PNG)
+
+Search Bar to find items
+![search](https://user-images.githubusercontent.com/39015652/103176718-17c20500-48af-11eb-92d0-5b79db5df56f.PNG)
+
+Signup (Modal)
+![signup](https://user-images.githubusercontent.com/39015652/103176719-17c20500-48af-11eb-9447-daa48fab3b4f.PNG)
+
