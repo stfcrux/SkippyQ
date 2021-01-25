@@ -1,0 +1,8 @@
+{
+  "appId": "com.nyp.skippyQ",
+  "appName": "skippyQ",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
